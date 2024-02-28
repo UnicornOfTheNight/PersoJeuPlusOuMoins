@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1525622613 source:d:\bureau\codeblocks\plusoumoins\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1578181137 source:d:\bureau\fun\codeblocks\plusoumoins\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<ctype.h>
+
+1578181521 source:d:\bureau\informatique\codeblocks\plusoumoins\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
